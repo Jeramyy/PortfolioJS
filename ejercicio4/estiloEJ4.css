@@ -1,0 +1,12 @@
+body{ 
+    background: linear-gradient(to right,#de69ca,#120b47);
+}
+
+.container{margin: 9%;}
+#titulo{color: white;}
+#letras{color: white;}
+#letra{color: white;}
+#boton{color: white;
+background-color: rgb(48, 48, 206);}
+#botonn{color: white;
+    background-color: rgb(48, 48, 206);}

@@ -1,0 +1,7 @@
+body{ 
+    background: linear-gradient(to right, #de69ca,#120b47);
+}
+.container{margin: 9%;}
+#titulo{color: white;}
+#titulo2{color: white;}
+#resultadoTipo{color: white;}
